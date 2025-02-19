@@ -23,6 +23,3 @@ Ele permite visualizar dados relevantes sobre os livros, como **preço, avaliaç
 
 ## 📝 Contribuição
 - **Fique à vontade para contribuir com melhorias! Basta abrir um Pull Request ou relatar Issues.
-
-## 📜 Licença
-- **Este projeto é de código aberto e está sob a licença MIT.
