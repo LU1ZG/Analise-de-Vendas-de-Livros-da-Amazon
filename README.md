@@ -16,13 +16,13 @@ Ele permite visualizar dados relevantes sobre os livros, como **preço, avaliaç
 - **Plotly** – Para criação de gráficos dinâmicos.  
 - **Streamlit** – Para desenvolvimento da interface web.  
 
-📊 Exemplo de Saída
--📌 Visualização da Tabela: Uma tabela interativa mostrando os 100 livros mais vendidos, com filtros por autor, preço e avaliação.
+## 📊 Exemplo de Saída
+- **📌 Visualização da Tabela: Uma tabela interativa mostrando os 100 livros mais vendidos, com filtros por autor, preço e avaliação.
 
--📌 Gráficos Dinâmicos: Análises gráficas que ajudam a entender a relação entre preço, avaliações e ano de publicação.
+- **📌 Gráficos Dinâmicos: Análises gráficas que ajudam a entender a relação entre preço, avaliações e ano de publicação.
 
-📝 Contribuição
--Fique à vontade para contribuir com melhorias! Basta abrir um Pull Request ou relatar Issues.
+## 📝 Contribuição
+- **Fique à vontade para contribuir com melhorias! Basta abrir um Pull Request ou relatar Issues.
 
-📜 Licença
--Este projeto é de código aberto e está sob a licença MIT.
+## 📜 Licença
+- **Este projeto é de código aberto e está sob a licença MIT.
